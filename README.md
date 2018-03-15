@@ -1,10 +1,10 @@
-# vue-music
+# YaoMusic
 
 > 音乐播放器
 
-## Build Setup
+;## Build Setup
 
-``` bash
+;``` bash
 # install dependencies
 npm install
 
